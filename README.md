@@ -57,9 +57,9 @@ This project focuses on recognizing human actions from video using a Long-term R
 ---
 
 ## 7. Alert System (Unique Feature)
-- 🔊 **Speech Alert**: Integrated using `pyttsx3` for suspicious activities.  
-- 📧 **Email Alert**: Sends email using `smtplib` and credentials from `config.json`.  
-- 📄 **PDF Report**: Automatically generated using `reportlab` with predicted actions.
+- **Speech Alert**: Integrated using `pyttsx3` for suspicious activities.  
+- **Email Alert**: Sends email using `smtplib` and credentials from `config.json`.  
+- **PDF Report**: Automatically generated using `reportlab` with predicted actions.
 
 ---
 
