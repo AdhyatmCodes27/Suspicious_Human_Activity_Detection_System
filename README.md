@@ -5,7 +5,7 @@ This project focuses on recognizing human actions from video using a Long-term R
 ---
 
 ## 1. Dataset Used
-- **Dataset**: UCF50 – a widely used benchmark dataset for human action recognition.
+- **Dataset**: [UCF50](https://www.kaggle.com/datasets/pypiahmad/realistic-action-recognition-ucf50) – a widely used benchmark dataset for human action recognition.
 - **Selected Classes**: 
   - Walking  
   - Running  
